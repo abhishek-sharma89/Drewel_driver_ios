@@ -1,0 +1,145 @@
+/*
+ Localizable.strings
+ DrewelDriver
+ 
+ Created by Octal on 14/05/18.
+ Copyright © 2018 Octal. All rights reserved.
+ */
+
+"OMR"                           = "ريال عماني";
+
+"Done_Title"                    = "تم";
+"submit_title"                  = "تقديم";
+"OK_Title"                      = "تمام";
+"Confirm_Title"                 = "تأكيد";
+"Accept"                        = "موافق";
+"Verify_Title"                  = "تحقق من";
+
+"Cancel_Title"                  = "إلغاء";
+"Reject_Title"                  = "رفض";
+"Retry_Title"                   = "محاولة أخرى";
+
+"Call_Title"                    = "إتصل";
+"Continue_Title"                = "استمر";
+"save_title"                    = "حفظ";
+
+
+// LoginVC
+"Login"                         = "دخول";
+"emailAddress"                  = "البريد الالكتروني";
+"password"                      = "الرمز السري  ";
+"dontHaveAccount"               = "Don't have an account";
+"signup"                        = "Sign up";
+"forgotPassword"                = "Forgot Password";
+
+
+// HomeVC
+"order"                         = "أوامر";
+"completedOrder"                = "الطلب جاهز";
+"outForDeliveryCaps"            = "خارج للتوصيل";
+"new"                           = "الجديد";
+"outForDelivery"                = "خارج للتوصيل";
+"accepted"                      = "قبلت";
+"completed"                     = "منجز";
+"more"                          = "أكثر من";
+
+"orderId"                       = "تحديد الطلب";
+"placedOn"                      = "نظرا ل";
+"status"                        = "الحالة";
+"details"                       = "تفاصيل";
+"deliveryDate"                  = "تاريخ التسليم او الوصول";
+"deliveryTime"                  = "موعد التسليم";
+"distance"                      = "مسافه: بعد";
+"deliveryAddress"               = "عنوان التسليم";
+"pickupFromVendor"              = "لاقط من المستودع";
+"delivered"                     = "تم التوصيل";
+"miles"                         = "ميل";
+"From"                          = "من عند";
+"To"                            = "إلى";
+
+
+// MoreVC
+"settings"                      = "إعدادات";
+"myAccount"                     = "حسابي";
+"notificationSettings"          = "إعدادات الإشعار";
+"notification"                  = "الإشعارات";
+"changePassword"                = "تغيير الرمز السري";
+"aboutApp"                      = "حول التطبيق";
+"changeLanguage"                = "تغيير اللغة";
+"contactUs"                     = "تواصل معنا";
+"aboutUs"                       = "معلومات عنا";
+"rateus"                        = "قيمنا";
+"signOut"                       = "خروج";
+
+//ProfileVC
+
+"myProfile"                 = "ملفي الشخصي";
+"camera"                    = "الكاميرا";
+"selectExisting"            = "اختيار ماهو موجود";
+"firstName"                 = "الأسم الأول";
+"lastName"                  = "الأسم الأخير";
+"phoneNumber"               = "رقم الهاتف";
+"vehicleNo"                 = "السيارة لا";
+
+//ChangePasswordVC
+"newPassword"               = "رمز سري جديد";
+"oldPassword"               = "الرمز السري السابق";
+"confirmPassword"           = "تأكيد الرمز السري";
+
+// App Validation Messages
+"NAME_LENGTH"                   = "يرجى ادخال الاسم";
+"FNAME_LENGTH"                  = "يرجى ادخال الاسم الأول";
+"LNAME_LENGTH"                  = "يرجى ادخال الاسم الأخير";
+"MOBILE_LENGTH"                 = "يرجى ادخال رقم الهاتف";
+"MOBILE_VALID"                  = "يرجى ادخال رقم هاتف صحيح";
+"EMAIL_LENGTH"                  = "يرجى ادخال البريد الالكتروني";
+"EMAIL_VALID"                   = "يرجى ادخال البريد الالكتروني النشط";
+"PASS_ENTER"                    = "يرجى ادخال الرقم السري";
+"Old_PASS_ENTER"                = "يرجى ادخال الرقم السري القديم";
+"PASS_VALID"                    = "الرمز السري يجب ان لايقل عن 6 حروف أبجدية";
+"NEW_PASS_VALID"                = "الرمز السري الجديد يجب ان لايقل عن 6 حروف ابجدية";
+"RE_PASS_ENTER"                 = "يرجى تأكيد الرمز السري";
+"REPASS_VALID"                  = "الرمز السري وتأكيد الرمز السري غير متطابقان";
+
+"APARTMENT_LENGTH"              = "يرجى ادخال رقم الشقة";
+"FLOOR_LENGTH"                  = "يرجى ادخال رقم الطابق";
+"BUILDING_LENGTH"               = "يرجى ادخال اسم المبنى";
+"STREET_LENGTH"                 = "يرجى ادخال اسم الشارع";
+"VEHICHLE_LEGTH_MSG"            = "يرجى إدخال رقم السيارة.";
+
+
+"OTP_LENGTH"                    = "يرجى إدخال رمز التحقق";
+"VALID_OTP"                     = "يرجى إدخال رمز التحقق ساري المفعول";
+
+"MESSAGE_LOGOUT"                = "هل متأكد بأن ترغب في الخروج";
+
+"Already_In_Wishlist"           = "هذا المنتج موجود أصلا بقائمة طلباتك";
+
+"Notifications_On"              = "هل متأكد من رغبتك في تشغيل الاشعارات ؟";
+"Notifications_Off"             = "هل متأكد من رغبتك في وقف تشغيل الاشعارات ؟";
+"Order_Cancel_MSG"              = "هل متأكد من رغبتك في إلغاء الطلب ؟";
+
+
+//New
+"noOrderFound"                  = "لا يوجد سجلات";
+//AboutUsVC
+"howItWork"                     = "كيف تعمل";
+"termOfUse"                     = "شروطنا";
+"privacyPolicy"                 = "سياسة الخصوصية";
+"faq"                           = "تعليمات";
+"appVersion"                    = "نسخة التطبيق";
+
+"Cancelled"                     = "ألغيت";
+"Not Cancelled"                 = "غير ملغى";
+"Pending"                       = "قيد الانتظار";
+"Under Packaging"               = "الطلب قيد التنفيذ";
+"Ready To Deliver"              = "مستعد لتوصيل";
+
+"items"                         = "المنتجات";
+"collectedCash"                 = "يرجى جمع النقدية والتأكيد.";
+"orderItems"                    = "اجمالي المشتريات";
+"selectLanguage"                = "إختار اللغة";
+
+"paymentMethod"                 = "طريقة الدفع";
+"COD"                           = "الدفع عن الإستلام";
+"Wallet"                        = "المحفظة";

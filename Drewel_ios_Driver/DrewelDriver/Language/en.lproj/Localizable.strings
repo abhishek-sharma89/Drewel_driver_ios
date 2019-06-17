@@ -1,0 +1,79 @@
+/* 
+  Localizable.strings
+  DrewelDriver
+
+  Created by Octal on 14/05/18.
+  Copyright © 2018 Octal. All rights reserved.
+*/
+
+"OMR"                           = "OMR";
+
+"Done_Title"                    = "Done";
+"submit_title"                  = "Submit";
+"OK_Title"                      = "OK";
+"Confirm_Title"                 = "Confirm";
+"Accept"                        = "Accept";
+"Verify_Title"                  = "Verify";
+
+"Cancel_Title"                  = "Cancel";
+"Reject_Title"                  = "Reject";
+"Retry_Title"                   = "Retry";
+
+"Call_Title"                    = "Call";
+"Continue_Title"                = "Continue";
+"save_title"                    = "Save";
+
+
+
+// LoginVC
+"Login"                     = "Login";
+"emailAddress"              = "Email Address";
+"password"                  = "Password";
+"dontHaveAccount"           = "Don't have an account";
+"signup"                    = "Sign up";
+"forgotPassword"            = "Forgot Password";
+
+
+// HomeVC
+"order"                     = "Order";
+"completedOrder"            = "Completed Order";
+
+
+
+
+
+
+
+
+
+// App Validation Messages
+"NAME_LENGTH"                   = "Please enter name.";
+"FNAME_LENGTH"                  = "Please enter first name.";
+"LNAME_LENGTH"                  = "Please enter last name.";
+"MOBILE_LENGTH"                 = "Please enter mobile number.";
+"MOBILE_VALID"                  = "Please enter valid mobile number.";
+"EMAIL_LENGTH"                  = "Please enter email address.";
+"EMAIL_VALID"                   = "Please enter a valid email address.";
+"PASS_ENTER"                    = "Please enter Password.";
+"Old_PASS_ENTER"                = "Please enter Old Password.";
+"PASS_VALID"                    = "Password should be atleast of 6 characters and alphanumeric.";
+"NEW_PASS_VALID"                = "New Password should be atleast of 6 characters and alphanumeric.";
+"RE_PASS_ENTER"                 = "Please enter Confirm Password.";
+"REPASS_VALID"                  = "Password and Confirm Password do not match.";
+
+"APARTMENT_LENGTH"              = "Please enter Apartment No.";
+"FLOOR_LENGTH"                  = "Please enter floor.";
+"BUILDING_LENGTH"               = "Please enter building name.";
+"STREET_LENGTH"                 = "Please enter Street.";
+
+
+"OTP_LENGTH"                    = "Please enter OTP.";
+"VALID_OTP"                     = "Please enter valid OTP.";
+
+"MESSAGE_LOGOUT"                = "Are you sure you want to logout?";
+
+"Already_In_Wishlist"           = "This product is already in your wish list.";
+
+"Notifications_On"              = "Are you sure you want to trun on notifications?";
+"Notifications_Off"             = "Are you sure you want to trun off notifications?";
+"Order_Cancel_MSG"              = "Are you sure you want to cancel this order?";
